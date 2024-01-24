@@ -6,11 +6,11 @@ sites:
   - name: Embedded
     url: https://dashboard.digitalsamba.com
   - name: Media server 1
-    url: https://mediastream1.prod.monza-eu.wbcnf.net
+    url: https://mediastream1.prod.monza-eu.wbcnf.net/mediaserver1/info
   - name: Media server 2
-    url: https://mediastream2.prod.monza-eu.wbcnf.net
+    url: https://mediastream2.prod.monza-eu.wbcnf.net/mediaserver1/info
   - name: Signalling
-    url: https://en.wikipedia.org
+    url: wss://datastream1.digitalsamba.com/ws
     port: 443
     check: "tcp-ping"
     ipv6: true
