@@ -1,7 +1,7 @@
-url: https://mediastream1.prod.monza-eu.wbcnf.net
-status: down
-code: 404
-responseTime: 512
-lastUpdated: 2024-01-24T19:55:28.195Z
+url: https://mediastream1.prod.monza-eu.wbcnf.net/mediaserver1/info
+status: up
+code: 200
+responseTime: 303
+lastUpdated: 2024-01-24T20:02:54.497Z
 startTime: 2024-01-24T19:55:27.398Z
 generator: Upptime <https://github.com/upptime/upptime>
