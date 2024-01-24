@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediastream1.prod.monza-eu.wbcnf.net.ico",
     "slug": "media-server-1",
     "status": "up",
-    "uptime": "1.50%",
-    "uptimeDay": "1.50%",
-    "uptimeWeek": "1.50%",
-    "uptimeMonth": "1.50%",
-    "uptimeYear": "1.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 408,
     "timeWeek": 408,
     "timeMonth": 408,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2024-01-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Media server 2",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediastream2.prod.monza-eu.wbcnf.net.ico",
     "slug": "media-server-2",
     "status": "up",
-    "uptime": "0.80%",
-    "uptimeDay": "0.80%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "0.80%",
-    "uptimeYear": "0.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 406,
     "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
-    "dailyMinutesDown": {
-      "2024-01-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Signalling",
@@ -63,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/datastream1.digitalsamba.com.ico",
     "slug": "signalling",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 7
+      "2024-01-24": 71
     }
   }
 ]
