@@ -22,7 +22,7 @@
     "url": "https://mediastream1.prod.monza-eu.wbcnf.net/mediaserver1/info",
     "icon": "https://icons.duckduckgo.com/ip3/mediastream1.prod.monza-eu.wbcnf.net.ico",
     "slug": "media-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 360,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   },
   {
     "name": "Media server 2",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-08": 31,
+      "2024-02-08": 1214,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
