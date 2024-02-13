@@ -6,6 +6,7 @@ sites:
   - name: Dashboard
     url: https://dashboard.digitalsamba.com
   - name: API
+    icon: https://demos.digitalsamba.com/integrations/host/api.png
     url: https://api.digitalsamba.com/api/v1/rooms
     headers:
       - "Authorization: Bearer $APIKEY"
@@ -34,9 +35,9 @@ status-website:
   theme: dark
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  #navbar:
-  #  - title: Status
-  #    href: /
+  navbar:
+    - title: Digital Samba
+      href: https://www.digitalsamba.com/
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
 
