@@ -6,7 +6,10 @@ sites:
   - name: Dashboard
     url: https://dashboard.digitalsamba.com
   - name: API
-    url: https://api.digitalsamba.com
+    url: https://api.digitalsamba.com/api/v1/rooms
+    headers:
+      - "Authorization: Bearer YWMwOGY3MGYtYmE2Yi00MmUxLWExYjQtNjgyY2NlYTliNzY0OjMxeGd4MU5pQXdNeGdGaGdneXZuRXV4OGplbFlSMTBJSkVubGpOV1JEYnNoSDIwTlc0V2xvckxHRjRYU1VndnI="
+      - "Content-Type: application/json"
   - name: Media 1
     url: $MEDIASERVER1
   - name: Media 2
