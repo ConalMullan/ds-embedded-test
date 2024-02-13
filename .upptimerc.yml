@@ -6,7 +6,7 @@ sites:
   - name: Dashboard
     url: https://dashboard.digitalsamba.com
   - name: API
-    icon: https://demos.digitalsamba.com/integrations/host/api.png
+    icon: https://demos.digitalsamba.com/integrations/host/api-code-icon.png
     url: https://api.digitalsamba.com/api/v1/rooms
     headers:
       - "Authorization: Bearer $APIKEY"
@@ -41,5 +41,7 @@ status-website:
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
 
+i18n:
+  footer: www.digitalsamba.com
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
