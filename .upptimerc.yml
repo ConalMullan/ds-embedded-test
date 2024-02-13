@@ -3,12 +3,14 @@ owner: ConalMullan # Your GitHub organization or username, where this repository
 repo: ds-embedded-test # The name of this repository
 user-agent: ConalMullan
 sites:
-  - name: Embedded
+  - name: Dashboard
     url: https://dashboard.digitalsamba.com
+  - name: API
+    url: https://api.digitalsamba.com
   - name: Media server 1
-    url: https://mediastream1.prod.monza-eu.wbcnf.net/mediaserver1/info
+    url: $MEDIASERVER1
   - name: Media server 2
-    url: https://mediastream2.prod.monza-eu.wbcnf.net/mediaserver1/info
+    url: $MEDIASERVER2
  # - name: Signalling
  #   url: wss://datastream1.digitalsamba.com/ws
  #   port: 443
@@ -21,7 +23,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /ds-embedded-test
   logoUrl: https://ps.w.org/digital-samba-embedded-video-conferencing/assets/icon.svg
-  name: Digital Samba Status
+  name: Digital Samba Embedded Status
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   #navbar:
