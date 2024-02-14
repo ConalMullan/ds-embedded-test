@@ -12,8 +12,10 @@ sites:
       - "Authorization: Bearer $APIKEY"
     #  - "Content-Type: application/json"
   - name: Media 1
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
     url: $MEDIASERVER1
   - name: Media 2
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
     url: $MEDIASERVER2
   - name: Datastream 1
     url: $DATASTREAM1
