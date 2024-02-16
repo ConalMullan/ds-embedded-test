@@ -14,10 +14,12 @@ sites:
 
   - name: Datastream 1
     url: $DATASTREAM1
+    icon: https://demos.digitalsamba.com/integrations/host/wss.png
     port: 443
     check: "tcp-ping"
   - name: Datastream 2
     url: $DATASTREAM2
+    icon: https://demos.digitalsamba.com/integrations/host/wss.png
     port: 443
     check: "tcp-ping"
 
