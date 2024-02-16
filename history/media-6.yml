@@ -1,7 +1,7 @@
 url: $MEDIASERVER6
-status: down
-code: 404
-responseTime: 725
-lastUpdated: 2024-02-16T13:36:00.864Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2024-02-16T13:41:46.779Z
 startTime: 2024-02-16T13:35:59.595Z
 generator: Upptime <https://github.com/upptime/upptime>
