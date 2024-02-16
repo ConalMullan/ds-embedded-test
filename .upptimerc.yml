@@ -11,12 +11,7 @@ sites:
     headers:
       - "Authorization: Bearer $APIKEY"
     #  - "Content-Type: application/json"
-  - name: Media 1
-    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
-    url: $MEDIASERVER1
-  - name: Media 2
-    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
-    url: $MEDIASERVER2
+
   - name: Datastream 1
     url: $DATASTREAM1
     port: 443
@@ -25,7 +20,25 @@ sites:
     url: $DATASTREAM2
     port: 443
     check: "tcp-ping"
-   # ipv6: true
+
+  - name: Media 1
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
+    url: $MEDIASERVER1
+  - name: Media 2
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
+    url: $MEDIASERVER2
+  - name: Media 3
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
+    url: $MEDIASERVER3
+  - name: Media 4
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
+    url: $MEDIASERVER4
+  - name: Media 5
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
+    url: $MEDIASERVER5
+  - name: Media 6
+    icon: https://demos.digitalsamba.com/integrations/host/hq-video.png
+    url: $MEDIASERVER6
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
