@@ -76,9 +76,9 @@
     "url": "$MEDIASERVER1",
     "icon": "https://demos.digitalsamba.com/integrations/host/hq-video.png",
     "slug": "media-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 444,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Media 2",
