@@ -22,19 +22,19 @@
     "url": "https://api.digitalsamba.com/api/v1/rooms",
     "icon": "https://demos.digitalsamba.com/integrations/host/api-code-icon.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 922,
-    "timeDay": 653,
-    "timeWeek": 936,
-    "timeMonth": 965,
+    "timeDay": 719,
+    "timeWeek": 927,
+    "timeMonth": 962,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 13
     }
   },
   {
