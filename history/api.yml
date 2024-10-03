@@ -1,7 +1,7 @@
 url: https://api.digitalsamba.com/api/v1/rooms
-status: up
-code: 200
-responseTime: 843
-lastUpdated: 2024-10-02T23:16:27.601Z
+status: down
+code: 503
+responseTime: 497
+lastUpdated: 2024-10-03T16:26:16.090Z
 startTime: 2024-02-13T19:02:48.331Z
 generator: Upptime <https://github.com/upptime/upptime>
