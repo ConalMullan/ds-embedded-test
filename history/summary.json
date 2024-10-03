@@ -22,19 +22,19 @@
     "url": "https://api.digitalsamba.com/api/v1/rooms",
     "icon": "https://demos.digitalsamba.com/integrations/host/api-code-icon.png",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 670,
-    "timeWeek": 973,
-    "timeMonth": 958,
-    "timeYear": 924,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 923,
+    "timeDay": 725,
+    "timeWeek": 958,
+    "timeMonth": 954,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2024-10-03": 0
+      "2024-10-03": 20
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$DATASTREAM1",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 81,
-    "timeWeek": 108,
-    "timeMonth": 100,
+    "timeDay": 82,
+    "timeWeek": 105,
+    "timeMonth": 99,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-10-03": 0
+      "2024-10-03": 20
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$DATASTREAM2",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 106,
     "timeDay": 81,
-    "timeWeek": 109,
-    "timeMonth": 100,
+    "timeWeek": 105,
+    "timeMonth": 99,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-10-03": 0
+      "2024-10-03": 20
     }
   },
   {
