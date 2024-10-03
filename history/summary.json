@@ -22,27 +22,29 @@
     "url": "https://api.digitalsamba.com/api/v1/rooms",
     "icon": "https://demos.digitalsamba.com/integrations/host/api-code-icon.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 843,
-    "timeWeek": 1041,
-    "timeMonth": 972,
-    "timeYear": 925,
-    "dailyMinutesDown": {}
+    "time": 924,
+    "timeDay": 670,
+    "timeWeek": 973,
+    "timeMonth": 958,
+    "timeYear": 924,
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Datastream 1",
     "url": "$DATASTREAM1",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 108,
     "timeMonth": 100,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Datastream 2",
     "url": "$DATASTREAM2",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 109,
     "timeMonth": 100,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Media 1",
