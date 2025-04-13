@@ -173,19 +173,19 @@
     "url": "$MEDIASERVER6",
     "icon": "https://demos.digitalsamba.com/integrations/host/hq-video.png",
     "slug": "media-6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 397,
-    "timeDay": 458,
-    "timeWeek": 444,
-    "timeMonth": 431,
+    "timeDay": 384,
+    "timeWeek": 427,
+    "timeMonth": 427,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-04-13": 0
+      "2025-04-13": 20
     }
   }
 ]
