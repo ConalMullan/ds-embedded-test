@@ -1,7 +1,7 @@
 url: $MEDIASERVER4
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-01T12:57:18.977Z
+status: up
+code: 200
+responseTime: 423
+lastUpdated: 2025-07-01T13:35:10.573Z
 startTime: 2024-02-16T13:35:52.229Z
 generator: Upptime <https://github.com/upptime/upptime>
