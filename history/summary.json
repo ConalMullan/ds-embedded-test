@@ -137,9 +137,9 @@
     "url": "$MEDIASERVER4",
     "icon": "https://demos.digitalsamba.com/integrations/host/hq-video.png",
     "slug": "media-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +148,9 @@
     "timeWeek": 455,
     "timeMonth": 458,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "Media 5",
