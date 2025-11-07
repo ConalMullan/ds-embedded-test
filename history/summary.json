@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.digitalsamba.com.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.98%",
     "time": 422,
     "timeDay": 373,
     "timeWeek": 427,
     "timeMonth": 454,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-11-07": 4
+      "2025-11-07": 130
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://demos.digitalsamba.com/integrations/host/api-code-icon.png",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.97%",
     "time": 2648,
     "timeDay": 4676,
     "timeWeek": 5053,
     "timeMonth": 4984,
     "timeYear": 3305,
     "dailyMinutesDown": {
-      "2025-11-07": 4,
+      "2025-11-07": 129,
       "2024-12-16": 19
     }
   },
@@ -45,19 +45,19 @@
     "url": "$DATASTREAM1",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.12%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 108,
     "timeDay": 84,
     "timeWeek": 109,
     "timeMonth": 118,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-11-07": 2
+      "2025-11-07": 128
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$DATASTREAM2",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.21%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 84,
-    "timeWeek": 109,
-    "timeMonth": 118,
-    "timeYear": 109,
+    "timeDay": 112,
+    "timeWeek": 113,
+    "timeMonth": 119,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-11-07": 1
+      "2025-11-07": 127
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "$MEDIASERVER1",
     "icon": "https://demos.digitalsamba.com/integrations/host/hq-video.png",
     "slug": "media-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 366,
-    "timeWeek": 441,
-    "timeMonth": 468,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.24%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
+    "time": 436,
+    "timeDay": 425,
+    "timeWeek": 446,
+    "timeMonth": 469,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-11-07": 1
+      "2025-11-07": 126
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "$MEDIASERVER2",
     "icon": "https://demos.digitalsamba.com/integrations/host/hq-video.png",
     "slug": "media-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 428,
-    "timeDay": 399,
-    "timeWeek": 424,
-    "timeMonth": 458,
+    "timeDay": 455,
+    "timeWeek": 435,
+    "timeMonth": 459,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-11-07": 0
+      "2025-11-07": 126
     }
   },
   {
