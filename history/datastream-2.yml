@@ -1,7 +1,7 @@
 url: $DATASTREAM2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-07T12:21:12.337Z
+status: up
+code: 200
+responseTime: 140
+lastUpdated: 2025-11-07T14:27:50.273Z
 startTime: 2024-02-13T19:28:15.055Z
 generator: Upptime <https://github.com/upptime/upptime>
