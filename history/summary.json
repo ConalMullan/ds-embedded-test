@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 427,
-    "timeDay": 532,
+    "timeDay": 505,
     "timeWeek": 500,
-    "timeMonth": 458,
-    "timeYear": 429,
+    "timeMonth": 459,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2025-11-07": 141
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3115,
-    "timeDay": 5913,
-    "timeWeek": 5385,
-    "timeMonth": 5171,
-    "timeYear": 3957,
+    "time": 3125,
+    "timeDay": 5880,
+    "timeWeek": 5481,
+    "timeMonth": 5200,
+    "timeYear": 3971,
     "dailyMinutesDown": {
       "2025-11-07": 140
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 147,
+    "timeDay": 148,
     "timeWeek": 141,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-11-07": 128
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 148,
+    "timeDay": 147,
     "timeWeek": 141,
-    "timeMonth": 131,
+    "timeMonth": 125,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-11-07": 127
@@ -85,15 +85,15 @@
     "icon": "https://demos.digitalsamba.com/integrations/host/hq-video.png",
     "slug": "media-1",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 440,
-    "timeDay": 504,
-    "timeWeek": 493,
-    "timeMonth": 475,
+    "timeDay": 487,
+    "timeWeek": 489,
+    "timeMonth": 474,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-11-07": 126
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 434,
-    "timeDay": 513,
-    "timeWeek": 531,
+    "timeDay": 500,
+    "timeWeek": 523,
     "timeMonth": 489,
-    "timeYear": 447,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2025-11-07": 126
     }
@@ -131,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 497,
-    "timeWeek": 504,
-    "timeMonth": 464,
-    "timeYear": 442,
+    "timeDay": 521,
+    "timeWeek": 499,
+    "timeMonth": 465,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   },
   {
@@ -149,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 428,
-    "timeDay": 520,
-    "timeWeek": 484,
-    "timeMonth": 460,
+    "timeDay": 499,
+    "timeWeek": 487,
+    "timeMonth": 461,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2025-07-01": 38
@@ -168,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 456,
-    "timeYear": 446,
+    "time": 430,
+    "timeDay": 521,
+    "timeWeek": 486,
+    "timeMonth": 458,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   },
   {
@@ -187,10 +187,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 563,
-    "timeWeek": 505,
-    "timeMonth": 460,
-    "timeYear": 435,
+    "timeDay": 507,
+    "timeWeek": 509,
+    "timeMonth": 462,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-04-13": 20
     }
