@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 429,
     "timeDay": 470,
-    "timeWeek": 412,
+    "timeWeek": 409,
     "timeMonth": 391,
     "timeYear": 430,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.93%",
     "time": 5313,
     "timeDay": 7454,
-    "timeWeek": 8201,
+    "timeWeek": 8154,
     "timeMonth": 8051,
     "timeYear": 5401,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "uptimeYear": "99.98%",
     "time": 114,
     "timeDay": 143,
-    "timeWeek": 119,
+    "timeWeek": 117,
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -68,19 +68,20 @@
     "url": "$DATASTREAM2",
     "icon": "https://demos.digitalsamba.com/integrations/host/wss.png",
     "slug": "datastream-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 115,
     "timeDay": 145,
-    "timeWeek": 119,
+    "timeWeek": 118,
     "timeMonth": 110,
-    "timeYear": 118,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-11-07": 127
+      "2025-11-07": 127,
+      "2026-10-17": 0
     }
   },
   {
@@ -96,7 +97,7 @@
     "uptimeYear": "99.98%",
     "time": 456,
     "timeDay": 499,
-    "timeWeek": 453,
+    "timeWeek": 454,
     "timeMonth": 417,
     "timeYear": 458,
     "dailyMinutesDown": {
@@ -118,7 +119,7 @@
     "timeDay": 496,
     "timeWeek": 462,
     "timeMonth": 428,
-    "timeYear": 453,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2025-11-07": 126,
       "2026-04-08": 35
@@ -137,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 449,
     "timeDay": 460,
-    "timeWeek": 493,
+    "timeWeek": 497,
     "timeMonth": 426,
     "timeYear": 452,
     "dailyMinutesDown": {}
@@ -155,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 488,
-    "timeWeek": 410,
+    "timeWeek": 405,
     "timeMonth": 401,
     "timeYear": 456,
     "dailyMinutesDown": {}
@@ -191,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 436,
     "timeDay": 459,
-    "timeWeek": 445,
+    "timeWeek": 442,
     "timeMonth": 426,
     "timeYear": 439,
     "dailyMinutesDown": {}
